@@ -9,7 +9,7 @@
 - Python 
 - C++
 - Go
-- Java Script
+- Javascript
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-taufiq-nur-rohman-aaa3b91a6/)
