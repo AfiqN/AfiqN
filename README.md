@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:afiq20030602@gmail.com" target="_blank">
+  <a href="https://mailto:afiq20030602@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/309148538623885313" target="_blank">
